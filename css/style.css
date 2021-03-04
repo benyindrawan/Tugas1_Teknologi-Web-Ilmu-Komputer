@@ -81,3 +81,13 @@ ul li.active a {
     background-color: ghostwhite;
     color: black;
 }
+
+.container {
+    position: absolute;
+    bottom: 200px;
+    left: 919px;
+}
+
+.content {
+    width: 70%;
+}
