@@ -91,3 +91,15 @@ ul li.active a {
 .content {
     width: 70%;
 }
+
+header2 {
+    position: absolute;
+    bottom: 200px;
+    left: 200px;
+}
+
+header4 {
+    position: absolute;
+    bottom: 40px;
+    left: 200px;
+}
